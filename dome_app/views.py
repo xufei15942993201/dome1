@@ -4,4 +4,4 @@ from django.http import response
 # Create your views here.
 def index(request):
     a=123
-    return response('hello world')
+    return response('hello')
